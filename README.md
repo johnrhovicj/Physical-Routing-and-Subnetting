@@ -50,7 +50,3 @@ copy running-config startup-config
 After configuring the router and setting the correct IP address and default gateway for each PC, the two subnets were able to communicate successfully.
 
 During the first ping attempt, there was a **Request timed out** because of the ARP resolution process. After that, the following ping attempts were successful and the two networks were able to communicate properly.
-
-## Author
-
-**John Rhovic Juliado**
